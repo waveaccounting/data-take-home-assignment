@@ -1,0 +1,495 @@
+id,create_date,country,organizational_type,type,subtype
+133091919,2024-01-29,can,Corporation,service_provider,service_provider__other
+316860773,2024-01-29,can,Corporation,retailers_and_resellers,retailers_and_resellers__store_retailer
+605197018,2024-02-01,can,Corporation,retailers_and_resellers,retailers_and_resellers__store_retailer
+247206764,2024-02-05,us,Limited Partnership,service_provider,restaurant_caterer_bar
+600306096,2024-02-05,can,Sole Proprietorship,other,other__other_please_specify
+937728458,2024-02-05,us,Sole Proprietorship,artists_photographers_creative,atrists_photographers_creative__visual_artist
+281598682,2024-02-06,us,Sole Proprietorship,other,other__other_please_specify
+854478937,2024-02-05,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+188269941,2024-02-06,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+576050521,2024-02-07,us,Limited Partnership,web_media_freelancer,advertising_public_relations
+200286468,2024-02-07,us,Limited Partnership,realestate_home,real_estate_sales__agent
+183232251,2024-02-07,us,Sole Proprietorship,realestate_home,real_estate_sales__agent
+627477612,2024-02-07,us,Corporation,other,other__other_please_specify
+976851976,2024-02-07,us,Corporation,realestate_home,construction_home_improvement__other_trades
+799673211,2024-02-08,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+830917052,2024-02-08,us,Limited Partnership,product_provider,product_provider__manufacturer
+361591614,2024-02-08,us,Sole Proprietorship,other,other__other_please_specify
+553172211,2024-02-06,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+979929947,2024-02-01,can,Sole Proprietorship,realestate_home,construction_home_improvement__other_trades
+631528628,2024-02-08,us,Limited Partnership,other,other__other_please_specify
+538653843,2024-02-08,us,Corporation,consultants_professionals,legal_services
+438527112,2024-02-08,can,Corporation,consultants_professionals,design_architecture_engineering
+175822521,2024-02-08,us,Limited Partnership,other,other__other_please_specify
+726209318,2024-02-08,us,Sole Proprietorship,artists_photographers_creative,atrists_photographers_creative__performing_arts_acting_music_dance
+440133457,2024-02-06,us,Sole Proprietorship,realestate_home,real_estate_sales__agent
+870617932,2024-02-07,us,Sole Proprietorship,realestate_home,real_estate_sales__agent
+628855146,2024-02-09,us,Limited Partnership,other,other__other_please_specify
+862803718,2024-02-09,us,Limited Partnership,other,other__other_please_specify
+682234086,2024-02-09,can,Corporation,nonprofit_associations_groups,nonprofit_associations_groups__association
+818926688,2024-02-09,can,Corporation,web_media_freelancer,web_media_freelancer__designer
+964936118,2024-02-09,can,Corporation,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+781127334,2024-02-09,us,Corporation,other,other__other_please_specify
+286185747,2024-02-06,us,Sole Proprietorship,service_provider,service_provider__office_admin_support
+564394347,2024-02-08,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+120933615,2024-02-11,us,Corporation,realestate_home,real_estate_sales__agent
+741466431,2024-02-11,us,Limited Partnership,other,other__other_please_specify
+671325585,2024-02-11,us,Limited Partnership,realestate_home,real_estate_sales__agent
+974322236,2024-02-10,us,Sole Proprietorship,other,other__other_please_specify
+441819916,2024-02-11,us,Sole Proprietorship,other,other__other_please_specify
+538510361,2024-02-12,us,Limited Partnership,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+643933269,2024-02-09,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+241914783,2024-02-12,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+254897530,2024-02-12,can,Corporation,product_provider,product_provider__manufacturer
+547946716,2024-02-12,us,Limited Partnership,other,other__other_please_specify
+271402096,2024-02-12,us,Sole Proprietorship,other,other__other_please_specify
+690203862,2024-02-13,us,Corporation,web_media_freelancer,advertising_public_relations
+892160078,2024-02-06,us,Corporation,nonprofit_associations_groups,church_religious_organization
+591826449,2024-02-13,us,Corporation,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+193330359,2024-02-13,us,Sole Proprietorship,realestate_home,construction_home_improvement__other_trades
+458124954,2024-02-13,us,Limited Partnership,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+853256845,2024-02-15,us,Sole Proprietorship,other,other__other_please_specify
+789286860,2024-02-15,us,Corporation,other,other__other_please_specify
+554307338,2024-02-14,us,Limited Partnership,other,other__other_please_specify
+939408465,2024-02-15,us,Sole Proprietorship,other,other__other_please_specify
+822004670,2024-02-15,us,Limited Partnership,service_provider,transportation_trucking_delivery
+944332953,2024-02-16,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+656558814,2024-02-16,us,Sole Proprietorship,web_media_freelancer,web_media_freelancer__writer
+703596431,2024-02-16,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+261705712,2024-02-16,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+788274775,2024-02-16,us,Sole Proprietorship,web_media_freelancer,web_media_freelancer__writer
+100778671,2024-02-16,us,Sole Proprietorship,web_media_freelancer,web_media_freelancer__designer
+355394321,2024-02-16,us,Corporation,realestate_home,real_estate_sales__agent
+972399789,2024-02-14,us,Corporation,realestate_home,real_estate_sales__agent
+267811877,2024-02-16,us,Limited Partnership,web_media_freelancer,advertising_public_relations
+631968777,2024-02-16,us,Limited Partnership,artists_photographers_creative,artists_photographers_creative__photographer
+879718371,2024-02-16,us,Corporation,realestate_home,construction_home_improvement__other_trades
+633802183,2024-02-16,us,Sole Proprietorship,realestate_home,construction_home_improvement__other_trades
+974156576,2024-02-17,us,Limited Partnership,consultants_professionals,consultants_professionals__accountants_bookkeepers
+476466710,2024-02-17,us,Limited Partnership,service_provider,automotive_sales_and_repair
+681521912,2024-02-17,us,Limited Partnership,consultants_professionals,consultants_professionals__it_technical
+694311473,2024-02-18,us,Limited Partnership,consultants_professionals,consultants_professionals__hr_recruitment_staffing
+572602479,2024-02-18,us,Corporation,service_provider,restaurant_caterer_bar
+583951112,2024-02-18,us,Limited Partnership,service_provider,transportation_trucking_delivery
+942593607,2024-02-19,us,Limited Partnership,other,other__other_please_specify
+278553588,2024-02-07,us,Limited Partnership,web_media_freelancer,advertising_public_relations
+851605793,2024-02-16,us,Limited Partnership,realestate_home,real_estate_sales__agent
+851605793,2024-02-16,us,Limited Partnership,realestate_home,real_estate_sales__agent
+462252588,2024-02-19,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+280416728,2024-02-19,us,Corporation,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+479151651,2024-02-19,us,Limited Partnership,artists_photographers_creative,artists_photographers_creative__photographer
+615879963,2024-02-19,us,Limited Partnership,realestate_home,real_estate_sales__agent
+846560842,2024-02-10,us,Sole Proprietorship,service_provider,automotive_sales_and_repair
+675280596,2024-02-19,us,Corporation,realestate_home,real_estate_sales__agent
+636442258,2024-02-19,us,Limited Partnership,other,other__other_please_specify
+156676388,2024-02-20,us,Sole Proprietorship,service_provider,automotive_sales_and_repair
+461396304,2024-02-20,us,Limited Partnership,service_provider,automotive_sales_and_repair
+645975752,2024-02-20,us,Limited Partnership,service_provider,transportation_trucking_delivery
+696233485,2024-02-20,can,Corporation,product_provider,wholesale_distribution_sales
+164139120,2024-02-20,us,Sole Proprietorship,product_provider,agriculture_ranching_farming
+882309710,2024-02-20,us,Sole Proprietorship,realestate_home,real_estate_sales__agent
+588834408,2024-02-21,us,Limited Partnership,other,other__other_please_specify
+419654629,2024-02-12,us,Limited Partnership,consultants_professionals,consultants_professionals__accountants_bookkeepers
+374911322,2024-02-21,can,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__photographer
+447575346,2024-02-21,us,Limited Partnership,other,other__other_please_specify
+101003399,2024-02-22,us,Limited Partnership,service_provider,restaurant_caterer_bar
+360497839,2024-02-22,us,Limited Partnership,service_provider,restaurant_caterer_bar
+367859823,2024-02-22,us,Limited Partnership,other,other__other_please_specify
+500798362,2024-02-22,us,Limited Partnership,consultants_professionals,consultants_professionals__hr_recruitment_staffing
+181671296,2024-02-22,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+226579091,2024-02-23,us,Corporation,other,other__other_please_specify
+993228803,2024-02-23,can,Corporation,consultants_professionals,design_architecture_engineering
+382024374,2024-02-23,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+469158861,2024-02-23,us,Sole Proprietorship,web_media_freelancer,web_media_freelancer__designer
+410246397,2024-02-23,us,Limited Partnership,other,other__other_please_specify
+262933756,2024-02-23,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+397829008,2024-02-23,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+679577022,2024-02-23,us,Corporation,web_media_freelancer,web_media_freelancer__other
+741438315,2024-02-23,us,Corporation,other,other__other_please_specify
+991512493,2024-02-23,us,Sole Proprietorship,nonprofit_associations_groups,nonprofit_associations_groups__association
+221880357,2024-02-24,us,Limited Partnership,other,other__other_please_specify
+869415932,2024-02-21,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+427606621,2024-02-25,us,Sole Proprietorship,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+157009813,2024-02-25,us,Corporation,realestate_home,landlord_property_manager__property_manager
+378152968,2024-02-25,us,Limited Partnership,artists_photographers_creative,artists_photographers_creative__visual_artist
+256734301,2024-02-25,can,Corporation,realestate_home,real_estate_sales__agent
+165090353,2024-02-09,us,Limited Partnership,realestate_home,landlord_property_manager__landlord
+728796020,2024-02-26,us,Limited Partnership,consultants_professionals,consultants_professionals__it_technical
+823225410,2024-02-26,us,Corporation,consultants_professionals,design_architecture_engineering
+276607864,2024-02-26,us,Limited Partnership,service_provider,transportation_trucking_delivery
+512496266,2024-02-22,us,Sole Proprietorship,service_provider,service_provider__other
+645068756,2024-02-26,us,Limited Partnership,artists_photographers_creative,artists_photographers_creative__photographer
+476031189,2024-02-26,us,Limited Partnership,realestate_home,real_estate_sales__agent
+530966993,2024-02-13,can,Sole Proprietorship,consultants_professionals,consultants_professionals__executive_coach
+995650253,2024-02-26,us,Limited Partnership,other,other__other_please_specify
+657330293,2024-02-23,us,Limited Partnership,other,other__other_please_specify
+461281113,2024-02-27,us,Limited Partnership,service_provider,restaurant_caterer_bar
+997264665,2024-02-27,us,Corporation,consultants_professionals,consultants_professionals__accountants_bookkeepers
+355761001,2024-02-27,us,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__photographer
+951781643,2024-02-27,us,Sole Proprietorship,service_provider,lodging_hotel_motel
+119908251,2024-02-27,us,Sole Proprietorship,realestate_home,real_estate_sales__agent
+927642679,2024-02-28,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+202195617,2024-02-28,us,Sole Proprietorship,web_media_freelancer,advertising_public_relations
+363752594,2024-02-28,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+669063095,2024-02-28,us,Corporation,web_media_freelancer,advertising_public_relations
+463788050,2024-02-28,us,Limited Partnership,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+837259133,2024-02-28,us,Limited Partnership,consultants_professionals,legal_services
+594007766,2024-02-29,can,Corporation,finance_insurance,financial_services
+436514209,2024-02-29,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+590028973,2024-02-29,us,Limited Partnership,product_provider,product_provider__manufacturer_and_vendor
+744131249,2024-02-29,us,Corporation,realestate_home,construction_home_improvement__other_trades
+135945514,2024-02-29,us,Limited Partnership,other,other__other_please_specify
+719576670,2024-02-24,us,Sole Proprietorship,service_provider,service_provider__cleaning_janitorial_services
+294020149,2024-02-29,us,Limited Partnership,artists_photographers_creative,artists_photographers_creative__photographer
+336319876,2024-02-29,us,Limited Partnership,other,other__other_please_specify
+133565506,2024-02-29,us,Corporation,web_media_freelancer,web_media_freelancer__other
+204143991,2024-02-29,can,Limited Partnership,other,other__other_please_specify
+756434088,2024-03-01,can,Sole Proprietorship,realestate_home,real_estate_sales__agent
+624673671,2024-03-01,us,Sole Proprietorship,service_provider,restaurant_caterer_bar
+509065489,2024-02-26,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+164449775,2024-03-01,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+313008974,2024-03-01,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+389952487,2024-03-01,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+307731713,2024-03-01,us,Sole Proprietorship,artists_photographers_creative,atrists_photographers_creative__performing_arts_acting_music_dance
+336814464,2024-03-02,us,Limited Partnership,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+613851392,2024-03-02,us,Limited Partnership,other,other__other_please_specify
+900719493,2024-03-02,us,Limited Partnership,service_provider,restaurant_caterer_bar
+243904146,2024-03-03,us,Corporation,retailers_and_resellers,retailers_and_resellers__store_retailer
+208066516,2024-03-03,us,Limited Partnership,service_provider,restaurant_caterer_bar
+942554407,2024-03-03,us,Limited Partnership,consultants_professionals,consultants_professionals__it_technical
+380100430,2024-03-03,us,Corporation,nonprofit_associations_groups,nonprofit_associations_groups__other
+323147347,2024-03-03,us,Sole Proprietorship,realestate_home,real_estate_sales__agent
+952844440,2024-03-04,us,Sole Proprietorship,other,other__other_please_specify
+733488588,2024-03-04,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+950278552,2024-03-04,us,Limited Partnership,realestate_home,real_estate_sales__agent
+421745344,2024-02-29,us,Sole Proprietorship,service_provider,restaurant_caterer_bar
+413660973,2024-03-01,us,Limited Partnership,other,other__other_please_specify
+795565003,2024-03-04,us,Limited Partnership,product_provider,agriculture_ranching_farming
+975493254,2024-03-04,us,Limited Partnership,product_provider,wholesale_distribution_sales
+919867192,2024-03-04,can,Corporation,other,other__other_please_specify
+802255780,2024-03-03,us,Corporation,other,other__other_please_specify
+836881166,2024-02-20,us,Limited Partnership,other,other__other_please_specify
+326146725,2024-03-05,us,Limited Partnership,service_provider,restaurant_caterer_bar
+776543297,2024-03-05,us,Limited Partnership,nonprofit_associations_groups,church_religious_organization
+708204172,2024-03-02,us,Limited Partnership,other,other__other_please_specify
+885561220,2024-03-05,us,Sole Proprietorship,realestate_home,real_estate_sales__agent
+893165140,2024-03-05,us,Corporation,other,other__other_please_specify
+258869071,2024-03-05,us,Limited Partnership,product_provider,product_provider__manufacturer
+519072075,2024-03-04,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+184743785,2024-03-07,us,Limited Partnership,other,other__other_please_specify
+349242904,2024-03-07,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+745363366,2024-03-07,us,Corporation,realestate_home,real_estate_sales__agent
+561161027,2024-03-06,us,Limited Partnership,service_provider,service_provider__fitness
+647116449,2024-03-06,us,Sole Proprietorship,service_provider,automotive_sales_and_repair
+164329910,2024-03-07,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+945662953,2024-03-04,can,Sole Proprietorship,web_media_freelancer,web_media_freelancer__designer
+322080408,2024-03-07,can,Corporation,product_provider,wholesale_distribution_sales
+710207525,2024-03-08,us,Limited Partnership,other,other__other_please_specify
+853866826,2024-03-01,us,Limited Partnership,other,other__other_please_specify
+249145536,2024-03-08,can,Corporation,service_provider,automotive_sales_and_repair
+203177052,2024-03-04,us,Limited Partnership,realestate_home,real_estate_sales__agent
+931102882,2024-03-06,us,Limited Partnership,realestate_home,real_estate_sales__agent
+807618966,2024-03-06,us,Sole Proprietorship,other,other__other_please_specify
+991089545,2024-03-09,us,Corporation,other,other__other_please_specify
+576240691,2024-03-09,us,Corporation,realestate_home,real_estate_sales__agent
+271256343,2024-03-09,us,Corporation,web_media_freelancer,advertising_public_relations
+997153242,2024-03-10,us,Limited Partnership,other,other__other_please_specify
+205156662,2024-03-04,us,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__visual_artist
+882619566,2024-03-10,us,Limited Partnership,service_provider,automotive_sales_and_repair
+577937098,2024-03-10,us,Limited Partnership,consultants_professionals,consultants_professionals__communications
+578100779,2024-03-10,us,Sole Proprietorship,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+176085615,2024-03-11,us,Corporation,web_media_freelancer,web_media_freelancer__designer
+693625958,2024-03-11,us,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__other
+442359762,2024-03-11,us,Sole Proprietorship,service_provider,lodging_hotel_motel
+601005351,2024-03-11,can,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__visual_artist
+493497686,2024-03-11,us,Limited Partnership,artists_photographers_creative,artists_photographers_creative__performing_arts_acting_music_dance
+120901948,2024-03-11,us,Corporation,nonprofit_associations_groups,nonprofit_associations_groups__association
+116795023,2024-02-17,us,Corporation,other,other__other_please_specify
+961794212,2024-03-04,can,Sole Proprietorship,service_provider,transportation_trucking_delivery
+843917204,2024-03-11,us,Corporation,service_provider,service_provider__cleaning_janitorial_services
+714729107,2024-03-12,can,Corporation,service_provider,transportation_trucking_delivery
+576022433,2024-03-12,us,Sole Proprietorship,other,other__other_please_specify
+288887985,2024-02-10,us,Limited Partnership,other,other__other_please_specify
+231705302,2024-02-10,us,Sole Proprietorship,other,other__other_please_specify
+377139233,2024-02-23,us,Corporation,other,other__other_please_specify
+992794889,2024-03-13,us,Limited Partnership,consultants_professionals,consultants_professionals__accountants_bookkeepers
+402086579,2024-03-13,us,Sole Proprietorship,consultants_professionals,consultants_professionals__accountants_bookkeepers
+697396556,2024-03-12,us,Limited Partnership,consultants_professionals,consultants_professionals__accountants_bookkeepers
+648793685,2024-03-13,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+749887728,2024-03-14,us,Corporation,consultants_professionals,consultants_professionals__communications
+184577605,2024-03-14,us,Sole Proprietorship,service_provider,restaurant_caterer_bar
+448108265,2024-03-09,us,Limited Partnership,artists_photographers_creative,atrists_photographers_creative__performing_arts_acting_music_dance
+870836344,2024-03-14,us,Limited Partnership,other,other__other_please_specify
+409638994,2024-03-14,us,Limited Partnership,realestate_home,lawn_care_landscaping
+409638994,2024-03-14,us,Limited Partnership,realestate_home,lawn_care_landscaping
+809269393,2024-03-15,can,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__visual_artist
+514028475,2024-03-15,us,Limited Partnership,other,other__other_please_specify
+353918608,2024-03-15,us,Corporation,consultants_professionals,consultants_professionals__executive_coach
+978515271,2024-03-15,can,Limited Partnership,realestate_home,rental
+582685643,2024-03-15,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+582685643,2024-03-15,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+920147520,2024-03-15,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+151550009,2024-03-16,us,Limited Partnership,artists_photographers_creative,artists_photographers_creative__audio_visual_production
+652333518,2024-03-12,us,Corporation,other,other__other_please_specify
+642596746,2024-03-15,us,Sole Proprietorship,other,other__other_please_specify
+642596746,2024-03-15,us,Sole Proprietorship,other,other__other_please_specify
+839895399,2024-02-16,can,Corporation,other,other__other_please_specify
+532757976,2024-03-16,us,Limited Partnership,realestate_home,real_estate_sales__agent
+123824123,2024-03-15,us,Sole Proprietorship,product_provider,product_provider__manufacturer
+338432945,2024-03-13,us,Limited Partnership,other,other__other_please_specify
+709757933,2024-03-17,us,Sole Proprietorship,service_provider,service_provider__other
+709757933,2024-03-17,us,Sole Proprietorship,service_provider,service_provider__other
+308997468,2024-03-13,us,Sole Proprietorship,service_provider,service_provider__other
+921225090,2024-03-17,us,Corporation,consultants_professionals,consultants_professionals__other
+123123063,2024-03-17,us,Limited Partnership,realestate_home,lawn_care_landscaping
+123123063,2024-03-17,us,Limited Partnership,realestate_home,lawn_care_landscaping
+718464014,2024-03-17,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+157934841,2024-03-04,can,Sole Proprietorship,consultants_professionals,consultants_professionals__executive_coach
+635477939,2024-03-18,can,Corporation,realestate_home,construction_home_improvement__contractor
+767013053,2024-03-18,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+529193983,2024-03-18,us,Sole Proprietorship,service_provider,restaurant_caterer_bar
+797361613,2024-03-18,us,Corporation,nonprofit_associations_groups,nonprofit_associations_groups__association
+991721221,2024-03-18,us,Limited Partnership,service_provider,automotive_sales_and_repair
+342241295,2024-03-18,us,Limited Partnership,realestate_home,lawn_care_landscaping
+884068148,2024-03-19,us,Sole Proprietorship,realestate_home,construction_home_improvement__contractor
+112240992,2024-03-19,us,Sole Proprietorship,other,other__other_please_specify
+958848255,2024-02-18,us,Limited Partnership,service_provider,lodging_hotel_motel
+162099811,2024-03-19,us,Sole Proprietorship,other,other__other_please_specify
+893728682,2024-03-20,can,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__visual_artist
+395354122,2024-03-20,us,Limited Partnership,service_provider,restaurant_caterer_bar
+995091935,2024-03-18,us,Corporation,realestate_home,construction_home_improvement__contractor
+354306868,2024-03-20,us,Limited Partnership,product_provider,agriculture_ranching_farming
+833006349,2024-02-13,us,Limited Partnership,web_media_freelancer,advertising_public_relations
+793214633,2024-03-20,us,Corporation,nonprofit_associations_groups,church_religious_organization
+793214633,2024-03-20,us,Corporation,nonprofit_associations_groups,church_religious_organization
+270742133,2024-03-20,us,Sole Proprietorship,other,other__other_please_specify
+342546968,2024-03-19,us,Sole Proprietorship,realestate_home,construction_home_improvement__contractor
+943641727,2024-03-14,us,Limited Partnership,realestate_home,real_estate_sales__other
+401494798,2024-03-21,us,Limited Partnership,other,other__other_please_specify
+850583547,2024-03-21,us,Corporation,realestate_home,construction_home_improvement__other_trades
+232025391,2024-03-17,us,Limited Partnership,realestate_home,real_estate_sales__agent
+952522101,2024-03-14,us,Limited Partnership,realestate_home,rental
+449647384,2024-03-20,can,Corporation,service_provider,service_provider__cleaning_janitorial_services
+217407684,2024-03-20,us,Corporation,nonprofit_associations_groups,church_religious_organization
+973819011,2024-03-04,us,Limited Partnership,service_provider,lodging_hotel_motel
+879511150,2024-03-22,us,Corporation,product_provider,product_provider__manufacturer
+804593701,2024-03-12,us,Corporation,nonprofit_associations_groups,nonprofit_associations_groups__association
+207100414,2024-03-22,us,Corporation,web_media_freelancer,advertising_public_relations
+288630088,2024-03-23,us,Sole Proprietorship,service_provider,restaurant_caterer_bar
+295514848,2024-03-23,us,Limited Partnership,other,other__other_please_specify
+234621536,2024-03-23,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+338474319,2024-02-28,us,Limited Partnership,service_provider,restaurant_caterer_bar
+302817758,2024-03-23,us,Limited Partnership,realestate_home,real_estate_sales__agent
+559559759,2024-03-23,us,Sole Proprietorship,service_provider,transportation_trucking_delivery
+867810805,2024-03-23,us,Limited Partnership,other,other__other_please_specify
+986736540,2024-03-17,us,Limited Partnership,realestate_home,lawn_care_landscaping
+246565125,2024-03-24,us,Sole Proprietorship,consultants_professionals,consultants_professionals__executive_coach
+271724778,2024-02-28,us,Limited Partnership,other,other__other_please_specify
+195643694,2024-03-01,us,Limited Partnership,consultants_professionals,consultants_professionals__communications
+277257961,2024-02-29,us,Sole Proprietorship,other,other__other_please_specify
+281544178,2024-03-20,us,Limited Partnership,other,other__other_please_specify
+135509424,2024-03-21,us,Sole Proprietorship,service_provider,restaurant_caterer_bar
+866251115,2024-03-26,us,Limited Partnership,consultants_professionals,consultants_professionals__it_technical
+433126576,2024-03-26,us,Sole Proprietorship,other,other__other_please_specify
+516776550,2024-03-26,us,Limited Partnership,realestate_home,real_estate_sales__agent
+656953264,2024-03-04,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+167788691,2024-03-26,us,Limited Partnership,realestate_home,construction_home_improvement__contractor
+201110092,2024-03-27,us,Sole Proprietorship,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+616165934,2024-03-21,us,Limited Partnership,service_provider,restaurant_caterer_bar
+670522936,2024-02-16,us,Sole Proprietorship,realestate_home,construction_home_improvement__other_trades
+372507406,2024-03-27,us,Corporation,consultants_professionals,consultants_professionals__communications
+688948177,2024-03-27,us,Sole Proprietorship,consultants_professionals,legal_services
+400363401,2024-03-20,us,Corporation,realestate_home,lawn_care_landscaping
+253356350,2024-03-27,us,Limited Partnership,web_media_freelancer,web_media_freelancer__designer
+660141815,2024-03-20,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+237704184,2024-03-16,can,Sole Proprietorship,consultants_professionals,consultants_professionals__it_technical
+237704184,2024-03-16,can,Sole Proprietorship,consultants_professionals,consultants_professionals__it_technical
+171662903,2024-03-28,us,Limited Partnership,web_media_freelancer,advertising_public_relations
+303819958,2024-02-17,us,Sole Proprietorship,service_provider,lodging_hotel_motel
+234307275,2024-03-04,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+176142169,2024-03-29,us,Limited Partnership,other,other__other_please_specify
+497180696,2024-03-29,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+764088072,2024-03-29,can,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__audio_visual_production
+788330194,2024-03-29,can,Corporation,consultants_professionals,consultants_professionals__executive_coach
+302000615,2024-03-27,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+930637523,2024-03-30,us,Sole Proprietorship,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+458773144,2024-03-30,us,Sole Proprietorship,consultants_professionals,consultants_professionals__other
+474364294,2024-03-22,us,Corporation,other,other__other_please_specify
+524813335,2024-03-30,us,Limited Partnership,realestate_home,lawn_care_landscaping
+331351305,2024-02-26,us,Limited Partnership,realestate_home,lawn_care_landscaping
+709971806,2024-03-31,us,Corporation,artists_photographers_creative,artists_photographers_creative__audio_visual_production
+280006755,2024-04-01,can,Sole Proprietorship,service_provider,transportation_trucking_delivery
+281972327,2024-02-27,can,Corporation,product_provider,agriculture_ranching_farming
+972116654,2024-04-01,us,Corporation,service_provider,restaurant_caterer_bar
+357915178,2024-04-02,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+716134148,2024-04-02,us,Limited Partnership,realestate_home,construction_home_improvement__contractor
+478201841,2024-04-02,us,Limited Partnership,web_media_freelancer,web_media_freelancer__other
+536912636,2024-03-28,us,Limited Partnership,service_provider,service_provider__fitness
+616587812,2024-03-08,us,Limited Partnership,realestate_home,real_estate_sales__agent
+357130897,2024-04-02,us,Sole Proprietorship,realestate_home,construction_home_improvement__contractor
+588634442,2024-04-02,us,Sole Proprietorship,web_media_freelancer,advertising_public_relations
+597156002,2024-04-02,us,Limited Partnership,consultants_professionals,consultants_professionals__executive_coach
+599055604,2024-04-03,us,Sole Proprietorship,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+964874241,2024-02-29,us,Corporation,service_provider,automotive_sales_and_repair
+815539976,2024-04-03,can,Corporation,other,other__other_please_specify
+761999825,2024-02-19,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+373374895,2024-04-03,us,Corporation,consultants_professionals,consultants_professionals__executive_coach
+938334804,2024-03-31,us,Limited Partnership,consultants_professionals,consultants_professionals__executive_coach
+810822099,2024-02-10,us,Limited Partnership,service_provider,service_provider__office_admin_support
+957816831,2024-04-04,us,Sole Proprietorship,realestate_home,construction_home_improvement__other_trades
+162885421,2024-04-05,us,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__audio_visual_production
+839058228,2024-04-05,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+857776710,2024-04-05,us,Corporation,product_provider,product_provider__manufacturer_and_vendor
+719028870,2024-04-05,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__etsy
+646046009,2024-04-04,us,Corporation,consultants_professionals,consultants_professionals__executive_coach
+774902062,2024-04-06,us,Sole Proprietorship,other,other__other_please_specify
+400661101,2024-04-06,us,Limited Partnership,web_media_freelancer,advertising_public_relations
+480082307,2024-04-06,us,Limited Partnership,retailers_and_resellers,sales_independent_agent
+886424853,2024-04-04,us,Limited Partnership,service_provider,restaurant_caterer_bar
+201372277,2024-04-06,us,Corporation,retailers_and_resellers,retailers_and_resellers__store_retailer
+387653216,2024-02-25,us,Limited Partnership,realestate_home,real_estate_sales__other
+209368711,2024-03-16,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+235385638,2024-03-19,us,Sole Proprietorship,consultants_professionals,consultants_professionals__accountants_bookkeepers
+386638271,2024-04-06,can,Sole Proprietorship,consultants_professionals,design_architecture_engineering
+442961446,2024-04-06,us,Limited Partnership,other,other__other_please_specify
+796546511,2024-03-27,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+471628132,2024-03-01,us,Limited Partnership,realestate_home,real_estate_sales__agent
+891476708,2024-04-07,us,Limited Partnership,other,other__other_please_specify
+794317062,2024-04-08,us,Sole Proprietorship,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+603786579,2024-04-08,us,Limited Partnership,realestate_home,construction_home_improvement__contractor
+438197540,2024-04-08,us,Sole Proprietorship,service_provider,automotive_sales_and_repair
+318669305,2024-04-08,us,Limited Partnership,product_provider,wholesale_distribution_sales
+320957353,2024-03-31,us,Sole Proprietorship,web_media_freelancer,web_media_freelancer__designer
+298861708,2024-04-04,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+275479020,2024-04-09,us,Limited Partnership,consultants_professionals,design_architecture_engineering
+605095951,2024-03-12,us,Limited Partnership,service_provider,restaurant_caterer_bar
+626600242,2024-04-08,us,Limited Partnership,other,other__other_please_specify
+362231023,2024-04-10,us,Limited Partnership,consultants_professionals,consultants_professionals__executive_coach
+779754665,2024-03-18,us,Limited Partnership,other,other__other_please_specify
+914808568,2024-04-08,us,Sole Proprietorship,other,other__other_please_specify
+931624550,2024-04-11,us,Limited Partnership,realestate_home,construction_home_improvement__contractor
+962331349,2024-04-08,us,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__performing_arts_acting_music_dance
+927441677,2024-04-11,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+817481415,2024-04-11,us,Limited Partnership,other,other__other_please_specify
+553197034,2024-04-11,us,Corporation,other,other__other_please_specify
+545595905,2024-04-11,us,Sole Proprietorship,realestate_home,construction_home_improvement__contractor
+861383387,2024-04-11,us,Limited Partnership,other,other__other_please_specify
+149201392,2024-04-11,us,Limited Partnership,artists_photographers_creative,artists_photographers_creative__performing_arts_acting_music_dance
+299554959,2024-04-12,us,Sole Proprietorship,consultants_professionals,consultants_professionals__accountants_bookkeepers
+729977001,2024-03-06,us,Sole Proprietorship,other,other__other_please_specify
+196566692,2024-04-13,us,Limited Partnership,realestate_home,lawn_care_landscaping
+742815609,2024-04-13,us,Limited Partnership,realestate_home,real_estate_sales__agent
+183390578,2024-03-28,us,Sole Proprietorship,service_provider,automotive_sales_and_repair
+692724170,2024-04-14,us,Sole Proprietorship,retailers_and_resellers,retailers_and_resellers__store_retailer
+407981473,2024-04-14,can,Sole Proprietorship,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+840334110,2024-03-25,us,Corporation,realestate_home,construction_home_improvement__contractor
+613775842,2024-02-05,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+691537659,2024-04-15,us,Limited Partnership,other,other__other_please_specify
+453786801,2024-04-15,us,Limited Partnership,other,other__other_please_specify
+336684607,2024-04-15,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+284556382,2024-03-27,us,Sole Proprietorship,other,other__other_please_specify
+123648589,2024-04-16,us,Limited Partnership,consultants_professionals,consultants_professionals__it_technical
+751661129,2024-04-17,us,Corporation,nonprofit_associations_groups,church_religious_organization
+741060116,2024-04-17,us,Sole Proprietorship,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+422634227,2024-04-17,us,Limited Partnership,web_media_freelancer,advertising_public_relations
+117394361,2024-04-17,can,Corporation,nonprofit_associations_groups,nonprofit_associations_groups__association
+991989969,2024-04-02,us,Limited Partnership,finance_insurance,insurance_agency_broker
+880946386,2024-03-19,us,Limited Partnership,service_provider,service_provider__fitness
+663683477,2024-03-28,us,Limited Partnership,service_provider,restaurant_caterer_bar
+277527601,2024-04-04,us,Sole Proprietorship,realestate_home,construction_home_improvement__contractor
+479989049,2024-04-14,us,Corporation,realestate_home,construction_home_improvement__other_trades
+579549863,2024-04-06,us,Sole Proprietorship,realestate_home,real_estate_sales__agent
+235656222,2024-04-22,us,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__visual_artist
+539561764,2024-04-22,us,Limited Partnership,other,other__other_please_specify
+901118634,2024-04-22,us,Sole Proprietorship,web_media_freelancer,advertising_public_relations
+967256155,2024-04-03,us,Limited Partnership,realestate_home,lawn_care_landscaping
+658690519,2024-04-18,us,Limited Partnership,service_provider,service_provider__office_admin_support
+363282048,2024-04-23,us,Limited Partnership,realestate_home,real_estate_sales__agent
+255394566,2024-04-23,us,Sole Proprietorship,consultants_professionals,consultants_professionals__other
+418626394,2024-02-15,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+313380836,2024-04-10,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+545582641,2024-04-24,us,Limited Partnership,web_media_freelancer,advertising_public_relations
+485688648,2024-04-24,us,Sole Proprietorship,other,other__other_please_specify
+373044533,2024-04-24,us,Corporation,other,other__other_please_specify
+435675656,2024-04-25,us,Limited Partnership,other,other__other_please_specify
+857658367,2024-03-29,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+755403373,2024-04-24,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+370915630,2024-04-24,us,Sole Proprietorship,artists_photographers_creative,artists_photographers_creative__audio_visual_production
+319408150,2024-04-26,can,Sole Proprietorship,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+814081063,2024-04-26,us,Corporation,product_provider,wholesale_distribution_sales
+859909928,2024-04-11,can,Corporation,other,other__other_please_specify
+194548346,2024-04-09,us,Limited Partnership,product_provider,agriculture_ranching_farming
+909161345,2024-02-13,us,Sole Proprietorship,service_provider,service_provider__other
+264361199,2024-04-27,us,Limited Partnership,service_provider,restaurant_caterer_bar
+692168521,2024-04-29,us,Corporation,nonprofit_associations_groups,church_religious_organization
+697068270,2024-04-29,us,Corporation,consultants_professionals,consultants_professionals__it_technical
+500625811,2024-04-11,us,Sole Proprietorship,realestate_home,real_estate_sales__other
+903342695,2024-04-29,us,Limited Partnership,other,other__other_please_specify
+725564745,2024-04-29,us,Limited Partnership,consultants_professionals,consultants_professionals__it_technical
+607734121,2024-04-27,us,Limited Partnership,service_provider,automotive_sales_and_repair
+188781344,2024-04-30,us,Sole Proprietorship,service_provider,automotive_sales_and_repair
+864477444,2024-05-01,us,Limited Partnership,other,other__other_please_specify
+184329647,2024-05-02,us,Limited Partnership,service_provider,automotive_sales_and_repair
+905355244,2024-05-02,us,Limited Partnership,other,other__other_please_specify
+348184430,2024-05-02,us,Limited Partnership,hair_spa_aesthetics,hair_spa_aesthetics__hair_salon
+853284647,2024-05-02,us,Sole Proprietorship,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+539275536,2024-04-04,us,Sole Proprietorship,web_media_freelancer,advertising_public_relations
+884450235,2024-05-02,us,Limited Partnership,other,other__other_please_specify
+643261077,2024-05-02,us,Sole Proprietorship,realestate_home,construction_home_improvement__contractor
+914334360,2024-05-03,can,Sole Proprietorship,other,other__other_please_specify
+856991356,2024-03-01,can,Sole Proprietorship,realestate_home,construction_home_improvement__other_trades
+464145242,2024-05-05,us,Sole Proprietorship,service_provider,lodging_hotel_motel
+627191756,2024-05-02,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+563134566,2024-05-05,us,Limited Partnership,consultants_professionals,consultants_professionals__executive_coach
+637286770,2024-05-06,us,Limited Partnership,realestate_home,real_estate_sales__agent
+663863462,2024-05-07,us,Limited Partnership,service_provider,automotive_sales_and_repair
+992249052,2024-05-07,us,Limited Partnership,service_provider,service_provider__office_admin_support
+815119554,2024-04-18,us,Limited Partnership,web_media_freelancer,web_media_freelancer__programmer
+686017361,2024-05-10,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+928087813,2024-05-10,us,Limited Partnership,other,other__other_please_specify
+237914420,2024-05-11,us,Limited Partnership,other,other__other_please_specify
+781571101,2024-04-05,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+985757584,2024-05-13,us,Limited Partnership,service_provider,transportation_trucking_delivery
+699701055,2024-03-27,us,Sole Proprietorship,product_provider,product_provider__manufacturer_and_vendor
+950579014,2024-05-13,us,Limited Partnership,web_media_freelancer,advertising_public_relations
+676410733,2024-05-13,us,Sole Proprietorship,consultants_professionals,consultants_professionals__it_technical
+615985301,2024-05-15,us,Limited Partnership,product_provider,product_provider__manufacturer
+532537265,2024-04-11,us,Corporation,service_provider,service_provider__office_admin_support
+681834742,2024-04-16,us,Limited Partnership,web_media_freelancer,advertising_public_relations
+196524390,2024-04-19,us,Limited Partnership,consultants_professionals,consultants_professionals__executive_coach
+466724459,2024-05-16,us,Limited Partnership,other,other__other_please_specify
+752704089,2024-05-16,us,Limited Partnership,other,other__other_please_specify
+835970074,2024-05-17,us,Sole Proprietorship,service_provider,service_provider__office_admin_support
+503342470,2024-05-17,us,Limited Partnership,consultants_professionals,legal_services
+898233955,2024-05-12,us,Limited Partnership,service_provider,automotive_sales_and_repair
+510004611,2024-05-19,can,Corporation,realestate_home,real_estate_sales__agent
+793950764,2024-04-29,us,Limited Partnership,realestate_home,lawn_care_landscaping
+506714474,2024-05-15,us,Sole Proprietorship,service_provider,service_provider__other
+522769984,2024-02-20,us,Limited Partnership,service_provider,restaurant_caterer_bar
+671746408,2024-05-20,us,Corporation,realestate_home,construction_home_improvement__other_trades
+592003167,2024-05-21,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+764649904,2024-04-13,us,Limited Partnership,other,other__other_please_specify
+405861337,2024-05-01,us,Sole Proprietorship,realestate_home,construction_home_improvement__other_trades
+977971626,2024-05-22,us,Corporation,web_media_freelancer,advertising_public_relations
+742677901,2024-05-23,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
+637210683,2024-04-26,us,Limited Partnership,service_provider,service_provider__cleaning_janitorial_services
+745091754,2024-03-05,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+122528322,2024-05-23,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+304981783,2024-03-15,us,Corporation,service_provider,service_provider__other
+779193171,2024-05-26,us,Corporation,web_media_freelancer,advertising_public_relations
+783991272,2024-03-06,us,Sole Proprietorship,realestate_home,real_estate_sales__agent
+931946180,2024-05-26,us,Limited Partnership,realestate_home,construction_home_improvement__other_trades
+259417722,2024-02-08,us,Limited Partnership,realestate_home,real_estate_sales__agent
+379977726,2024-05-10,us,Sole Proprietorship,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+109339781,2024-05-27,can,Corporation,realestate_home,construction_home_improvement__other_trades
+266473188,2024-05-09,us,Corporation,consultants_professionals,consultants_professionals__communications
+218277521,2024-02-21,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+885163474,2024-05-29,us,Limited Partnership,other,other__other_please_specify
+529958945,2024-05-29,us,Limited Partnership,other,other__other_please_specify
+370821257,2024-05-31,us,Limited Partnership,other,other__other_please_specify
+610664751,2024-03-25,us,Limited Partnership,product_provider,agriculture_ranching_farming
+891326817,2024-05-12,us,Corporation,retailers_and_resellers,retailers_and_resellers__non_store_retailer
+131468703,2024-06-01,us,Limited Partnership,service_provider,transportation_trucking_delivery
+832570521,2024-06-02,us,Limited Partnership,consultants_professionals,consultants_professionals__it_technical
+158858418,2024-06-02,us,Limited Partnership,retailers_and_resellers,retailers_and_resellers__store_retailer
