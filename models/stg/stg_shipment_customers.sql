@@ -31,8 +31,8 @@ shipment_totals AS (
        shipments.customer_id,
        COUNT(shipments.shipment_id) AS total_shipment,
        SUM(shipments.delivery_cost) AS total_cost,
-       MIN(shipments.order_date) AS first_shipment_date,
-       MAX(shipments.order_date) AS last_shipment_date
+       MIN(shipments.order_date) AS first_shipment_dt,
+       MAX(shipments.order_date) AS last_shipment_dt
    FROM shipments
    GROUP BY shipments.customer_id
 ),
@@ -46,8 +46,8 @@ customer_data AS (
        customers.phone_number,
        shipment_totals.total_shipment,
        shipment_totals.total_cost,
-       shipment_totals.first_shipment_date,
-       shipment_totals.last_shipment_date
+       shipment_totals.first_shipment_dt,
+       shipment_totals.last_shipment_dt
    FROM customers
    LEFT JOIN shipment_totals ON customers.customer_id = shipment_totals.customer_id
 )
