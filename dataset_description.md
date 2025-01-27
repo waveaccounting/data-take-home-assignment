@@ -10,9 +10,6 @@ Note that in the dataset, monthly subscriptions are represented by the latest in
 Subscriptions status can be either: Active, Non-Renewing , or Cancelled.
   Non-Renewing - the business still has access to all subscription features, but has turned off auto-renew.
   Cancelled - the business no longer has access to subscription features.
-
-Businesses signing up for subscriptions can have a ‘product permutation’ based on which products they have previously used within the app: Accounting, Invoicing, Payments, and/or Payroll in the order in which each product was used. ***GET BACK TO THIS***
-
 ---
 
 ## Data Glossary 
