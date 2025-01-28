@@ -1,0 +1,36 @@
+version: 2
+
+seeds:
+  - name: raw_business
+    config:
+      column_types:
+        id: BIGINT
+        create_date: DATE
+        country: VARCHAR
+        organizational_type: VARCHAR
+        type: VARCHAR
+        subtype: VARCHAR
+
+  - name: raw_subscription_items
+    config:
+      column_types:
+        id: BIGINT
+        unit_type: VARCHAR
+        billing_period_unit: VARCHAR
+        unit_price: FLOAT
+
+  - name: raw_subscriptions
+    config:
+      column_types:
+        id: BIGINT
+        business_id: BIGINT
+        purchase_channel: VARCHAR
+        created_at: TIMESTAMP
+        subscription_plan: VARCHAR
+        purchase_channel: VARCHAR
+        current_term_end: TIMESTAMP
+        current_term_start: TIMESTAMP
+        exchange_rate: FLOAT
+        status: VARCHAR
+        cancel_schedule_created_at: TIMESTAMP
+        cancelled_at: TIMESTAMP
