@@ -31,8 +31,9 @@ shipment_totals AS (
        shipments.customer_id,
        COUNT(shipments.shipment_id) AS total_shipment,
        SUM(shipments.delivery_cost) AS total_cost,
-       MIN(shipments.order_date) AS first_shipment_dt,
-       MAX(shipments.order_date) AS last_shipment_dt
+       MIN(shipments.shipment_date) AS first_shipment_dt,
+       MAX(shipments.shipment_date) AS last_shipment_dt
+
    FROM shipments
    GROUP BY shipments.customer_id
 ),
@@ -67,3 +68,5 @@ SELECT
    END AS customer_type
 FROM customer_data
 ORDER BY customer_data.total_cost DESC;
+
+

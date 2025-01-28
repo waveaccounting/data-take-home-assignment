@@ -3,6 +3,3 @@ target/
 dbt_packages/
 logs/
 venv/
-data_hta.duckdb
-duckdb.ipynb
-.DS_Store
