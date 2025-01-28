@@ -1,16 +1,15 @@
 
 ## Data Set Details: 
 
-This dummy data is a representation of subscribers to a subscription product. The data also includes dummy information on the business customers purchasing the subscription. Please be sure to outline any assumptions made when modelling the data and preparing the presentation.
+This dummy data set represents subscribers to a dummy subscription product. The data includes dummy information of the business customers who are purchasing the subscription. Please make sure to outline any assumptions made when modelling the data and preparing the presentation.
 
-Note that in the dataset, monthly subscriptions are represented by the latest instance of the monthly subscription. Assume for monthly subscriptions that the first monthly subscription instance was created at the ‘subscription_created_at’ date and that the customer has subscribed up until the point the data was extracted around June 2024, with the ‘subscription_current_term_end’ when their subscription is set to renew or expire.
+Note that in the dataset, monthly subscriptions are represented by the latest instance of the monthly subscription. Assume that the first monthly subscription instance was created at the 'subscription.created_at’ date and that the customer has an active subscribtion until the data extraction occured (around June 2024). ‘subscription.current_term_end’ is the date in which their subscription is set to renew or expire.
 
-The ‘Premium’ subscription is available to purchase via the web and mobile app (Apple App Store and Google Play Store), with options to subscribe monthly or annually. A subscription is considered active if it has not been cancelled.
+‘Premium’ subscription is available to purchase via both the 'web' and 'mobile' app (Apple App Store and Google Play Store), with options to subscribe either monthly or annually. A subscription is considered active if it has not been cancelled.
 
-Subscriptions can have three statuses: Active, Non-Renewing (the business still has access to all subscription features, but has turned off auto-renew), or Cancelled (the business no longer has access to subscription features).
-
-Businesses signing up for subscriptions can have a ‘product permutation’ based on which products they have previously used within the app: Accounting, Invoicing, Payments, and/or Payroll in the order in which each product was used.
-
+Subscriptions status can be either: Active, Non-Renewing , or Cancelled.
+  Non-Renewing - the business still has access to all subscription features, but has turned off auto-renew.
+  Cancelled - the business no longer has access to subscription features.
 ---
 
 ## Data Glossary 
