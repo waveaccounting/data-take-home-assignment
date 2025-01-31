@@ -1,6 +1,6 @@
 id,unit_type,billing_period_unit,unit_price
 1,premium_monthly_web,month,10
-2,premium_monthly_android,month,10
+2,premium_monthly_iOS,month,10
 3,premium_annual_web,year,100
-4,premium_monthly_iOS,month,10
-5,premium_annual_iOS,year,100
+4,premium_annual_iOS,year,100
+5,premium_monthly_android,month,10

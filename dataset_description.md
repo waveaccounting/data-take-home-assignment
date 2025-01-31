@@ -7,9 +7,9 @@ Note that in the dataset, monthly subscriptions are represented by the latest in
 
 ‘Premium’ subscription is available to purchase via both the 'web' and 'mobile' app (Apple App Store and Google Play Store), with options to subscribe either monthly or annually. A subscription is considered active if it has not been cancelled.
 
-Subscriptions status can be either: Active, Non-Renewing , or Cancelled.
-  Non-Renewing - the business still has access to all subscription features, but has turned off auto-renew.
-  Cancelled - the business no longer has access to subscription features.
+Subscriptions status can be either: Active, Non-Renewing , or Cancelled Non-Renewing - the business still has access to all subscription features, but has turned off auto-renew.
+Cancelled - the business no longer has access to subscription features.
+
 ---
 
 ## Data Glossary 
@@ -31,7 +31,7 @@ The `business` table has records about each business who is subscribed to *Surf*
 
 ### Table: `subscription_items`
 
-The `subscription_items` table captures details about the individual subscription plan, including their unit type, billing cycle, and pricing.
+The `subscription_items` table captures details about the individual subscription plan, including their plan type (which is reffered to as 'unit type' in the source system), billing cycle, and pricing.
 
 | Column Name           | Description                                                                   |
 |-----------------------|-------------------------------------------------------------------------------|
@@ -49,12 +49,13 @@ The `subscriptions` table provides detailed information about customer subscript
 |---------------------------|-----------------------------------------------------------------------------|
 | `id`                      | A unique identifier for each subscription.                          |
 | `business_id`             | Linking the subscription to a business.              |
-| `purchase_channel`        | The channel through which the subscription was purchased (e.g., Apple App Store, Google Play Store). |
-| `created_at`              | The date and time when the subscription was created.                       |
-| `subscription_plan`       | The subscription plan ID and the currency code used in this subscription (e.g., USD, CAD).              |
+| `created_at`              | The date and time when the subscription was created. The new subscription becomes active upon creation and remains so until it is canceled.                      |
 | `current_term_start`      | The start date of the current subscription term.                           |
 | `current_term_end`        | The end date of the current subscription term.                             |
-| `exchange_rate`           | The exchange rate applied for currency conversion, if applicable.          |
-| `status`                  | The current status of the subscription (e.g., active, cancelled).          |
 | `cancel_schedule_created_at` | The date when the subscription cancellation was scheduled, if applicable. |
 | `cancelled_at`            | The date when the subscription was cancelled, if applicable.               |
+| `channel`        | The channel through which the subscription was purchased (e.g., Apple App Store, Google Play Store). |
+| `status`                  | The current status of the subscription (e.g., active, cancelled).          |
+| `country`                  | In which country the subscription created, aligns with business country          |
+| `exchange_rate`           | The exchange rate applied for currency conversion, if applicable.          |
+| `subscription_plan`       | The subscription plan ID and the currency code used in this subscription (e.g., USD, CAD).              |
