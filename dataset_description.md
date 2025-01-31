@@ -7,6 +7,7 @@ Note that in the dataset, monthly subscriptions are represented by the latest in
 
 ‘Premium’ subscription is available to purchase via both the 'web' and 'mobile' app (Apple App Store and Google Play Store), with options to subscribe either monthly or annually. A subscription is considered active if it has not been cancelled.
 
+
 Subscriptions status can be either: Active, Non-Renewing , or Cancelled Non-Renewing - the business still has access to all subscription features, but has turned off auto-renew.
 Cancelled - the business no longer has access to subscription features.
 
@@ -32,6 +33,7 @@ The `business` table has records about each business who is subscribed to *Surf*
 ### Table: `subscription_items`
 
 The `subscription_items` table captures details about the individual subscription plan, including their plan type (which is reffered to as 'unit type' in the source system), billing cycle, and pricing.
+
 
 | Column Name           | Description                                                                   |
 |-----------------------|-------------------------------------------------------------------------------|
