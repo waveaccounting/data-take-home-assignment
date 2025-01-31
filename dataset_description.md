@@ -58,6 +58,6 @@ The `subscriptions` table provides detailed information about customer subscript
 | `cancelled_at`            | The date when the subscription was cancelled, if applicable.               |
 | `channel`        | The channel through which the subscription was purchased (e.g., Apple App Store, Google Play Store). |
 | `status`                  | The current status of the subscription (e.g., active, cancelled).          |
-| `country`                  | In which country the subscription created, aligns with business country          |
+| `country`                  | In which country the subscription was created, aligns with business country          |
 | `exchange_rate`           | The exchange rate applied for currency conversion, if applicable.          |
 | `subscription_plan`       | The subscription plan ID and the currency code used in this subscription (e.g., USD, CAD).              |
