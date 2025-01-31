@@ -3,3 +3,6 @@ target/
 dbt_packages/
 logs/
 venv/
+data_hta.duckdb
+duckdb.ipynb
+seeds/data.ipynb
