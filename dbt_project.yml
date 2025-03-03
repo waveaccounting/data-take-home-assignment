@@ -20,3 +20,12 @@ models:
   hometask:
     stg:
       +materialized: view
+
+seeds:
+  hometask:
+    raw_subscriptions:
+      file_format: csv
+      delimiter: ","
+      quote: '"'
+      escape: '"'
+      null_padding: true

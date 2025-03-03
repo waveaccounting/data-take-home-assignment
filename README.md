@@ -9,14 +9,10 @@ This dbt project was initially created with DuckDB as the database but we encour
 
 ## Getting started
 
-* Fork this repo into your github account
+* Fork the https://github.com/waveaccounting/data-take-home-assignment repo into your github account
 
 * Clone the repo to your local machine
 
-```
-git clone https://github.com/waveaccounting/data-take-home-assignment/tree/main
-Install the requirements
-```
 
 ### create a virtual environment
 ```
@@ -52,7 +48,7 @@ If you see the message `All checks passed!`, you are good to go
 dbt seed
 ```
 
-Those will be materialized in the main schema in the database, e.g `main.transaction_termination_reasons_seed`. Note you may need to remove the 'stg_shipment_customers.sql' file from the models/stg directory.
+The seed files will be materialized in the main schema in the duck db database and you can query them as tables.
 
 
 ### Optional - Working with other databases
