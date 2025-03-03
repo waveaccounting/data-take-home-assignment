@@ -14,7 +14,7 @@ This dbt project was initially created with DuckDB as the database but we encour
 * Clone the repo to your local machine
 
 ```
-git clone https://github.com/hiivemarkets/data-tech-interview
+git clone https://github.com/waveaccounting/data-take-home-assignment/tree/main
 Install the requirements
 ```
 
@@ -27,6 +27,16 @@ source venv/bin/activate
 ### install the requirements
 ```
 pip install -r requirements.txt
+```
+
+### Ensure you have a profiles.yml file named 'hometask':
+```
+hometask:
+  outputs:
+    dev:
+      type: duckdb
+      path: dbt.duckdb
+  target: dev
 ```
 
 ### Run dbt debug to make sure that all is set:
@@ -42,7 +52,7 @@ If you see the message `All checks passed!`, you are good to go
 dbt seed
 ```
 
-Those will be materialized in the main schema in the database, e.g `main.transaction_termination_reasons_seed`.
+Those will be materialized in the main schema in the database, e.g `main.transaction_termination_reasons_seed`. Note you may need to remove the 'stg_shipment_customers.sql' file from the models/stg directory.
 
 
 ### Optional - Working with other databases
